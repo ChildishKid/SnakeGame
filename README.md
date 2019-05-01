@@ -1,4 +1,4 @@
-**Snake Game**
+# **Snake Game**
 
 * **Author**: Manpreet Tahim
 * **Date**: April 2019
